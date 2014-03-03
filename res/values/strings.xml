@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">How far do you swim</string>
+    <string name="action_settings">Settings</string>
+    <string name="lengthOfPool">Length of pool ..</string>
+    <string name="lengthOfPoolDefault">25</string>
+    
+    <string name="poolMeasurement1">Meters</string>
+    <string name="poolMeasurement2">Yards</string>
+    
+    <string name="numOfLengths">Number of lengths swam</string>
+    <string name="numOfLengthsDefault">50</string>
+    
+    <string name="convertTo">convert to ..</string>
+    
+    <string name="distanceMeasurement1">Kilometers</string>
+    <string name="distanceMeasurement2">Miles</string>
+    
+    <string name="converted"></string>
+</resources>
